@@ -1,0 +1,113 @@
+{
+  "developmentAddress": "10199 River Drive, Richmond",
+  "projectName": "Project Name",
+  "developmentCompany": "Development Company Name",
+  "city": "Richmond",
+  "province": "AB",
+  "familySize": "Multi-Family",
+  "numberofBuildings": "4",
+  "numberofFloors": "6",
+  "units": "10",
+  "numberofLines": "9",
+  "approximateSqFootage": "1134",
+  "alarmLineTestingRequired": "Yes",
+  "requestToBeFed": "Aerial",
+  "terminalRoom": "Tel",
+  "siteConstructionState": "Old Structure in Place",
+  "isMultiBuildingProject":"Yes",
+  "isThirdPartyROWRequest": "Yes",
+  "relocationRequired": "Yes",
+  "scopeofRelocation": "To be discussed",
+  "detailedProjectDescription": "project description",
+  "developmentType": [
+    "Assisted Living Facility",
+    "Industrial"
+  ],
+  "shallowUtilityStartDate": "05-23-2019",
+  "serviceRequiredByDate": "05-23-2019",
+  "occupancyDate": "05-24-2019",
+  "deepsCompletion": "05-24-2019",
+  "drawingsRequestEstimatedTime": "05-26-2019",
+  "roadCrossingsDate": "05-28-2019",
+  "permitsApplicableEstimate": "06-20-2019",
+  "fireElevatorAlarmLinesTesting": "06-24-2019",
+  "plannedPoleRelocationDate": "06-28-2019",
+  "contact": [
+    {
+      "CompanyName": "Company Name",
+      "ContactName": "abc",
+      "Phone": "9876543211",
+      "Address": "Sec:6, B block",
+      "Email": "abc@gmail.com",
+      "Type": "Development"
+    },
+    {
+      "CompanyName": "Company Name",
+      "ContactName": "abc",
+      "Phone": "9876543211",
+      "Address": "Sec:6, B block",
+      "Email": "abc@gmail.com",
+      "Type": "Engineering"
+    },
+    {
+     "CompanyName": "Company Name",
+      "ContactName": "abc",
+      "Phone": "9876543211",
+      "Address": "Sec:6, B block",
+      "Email": "abc@gmail.com",
+      "Type": "Electrical"
+    },
+    {
+      "CompanyName": "Company Name",
+      "ContactName": "abc",
+      "Phone": "9876543211",
+      "Address": "Sec:6, B block",
+      "Email": "abc@gmail.com",
+      "Type": "Power"
+    },
+    {
+      "CompanyName": "Company Name",
+      "ContactName": "abc",
+      "Phone": "9876543211",
+      "Address": "Sec:6, B block",
+      "Email": "abc@gmail.com",
+      "Type": "Construction"
+    },
+
+    {
+     "CompanyName": "Company Name",
+      "ContactName": "abc",
+      "Phone": "9876543211",
+      "Address": "Sec:6, B block",
+      "Email": "abc@gmail.com",
+      "Type": "ROW"
+    },
+    {
+      "CompanyName": "Company Name",
+      "ContactName": "abc",
+      "Phone": "9876543211",
+      "Address": "Sec:6, B block",
+      "Email": "abc@gmail.com",
+      "Type": "Relocation"
+    },
+    {
+      "CompanyName": "Company Name",
+      "ContactName": "abc",
+      "Phone": " 9876543211",
+      "Address": "Sec:6, B block",
+      "Email": "abc@gmail.com",
+      "Type": "LowVoltage"
+    }
+  ],
+  "furtherDetails": "Further Details Data",
+  "developerRemarks": " Developer Remarks Data",
+  "fileTypesAttached":[
+         "Electronic File",
+         "Site Plans",
+         "Electrical Plans"
+      ]
+}
+
+
+
+
